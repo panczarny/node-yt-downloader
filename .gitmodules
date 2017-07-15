@@ -1,0 +1,3 @@
+[submodule "node-youtube-dl"]
+	path = node-youtube-dl
+	url = https://github.com/przemyslawpluta/node-youtube-dl.git
